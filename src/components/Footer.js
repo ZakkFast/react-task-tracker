@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import { useLocation } from "react-router";
-import { SocialIcon } from "react-social-icons";
 
 const Footer = () => {
   const location = useLocation();
